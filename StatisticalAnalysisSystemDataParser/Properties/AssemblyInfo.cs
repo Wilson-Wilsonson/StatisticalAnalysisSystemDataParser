@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("StatisticalAnalysisSystemDataParser")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IF P&C Insurance AS")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("StatisticalAnalysisSystemDataParser")]
-[assembly: AssemblyCopyright("Copyright © IF P&C Insurance AS 2022")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
